@@ -5,6 +5,7 @@
 // cout<<"Enter a Number : ";
 // cin>>n;
 // int count = 0;
+//if(n==0) count++;
 // while(n != 0){
 //     n /= 10;
 //     count++;
@@ -69,24 +70,24 @@
 
 
 
-// #include <iostream>
-// using namespace std;
-// int main(){
-// int a;
-// cout<<"Enter Base: ";
-// cin>>a;
-// int b;
-// cout<<"Enter Power: ";
-// cin>>b;
-// int ans = 1;
-// for(int i=1;i<=b;i++){
-//     ans *=a;
-//     if(a == 1) break;
-// }
-// if( a == 0 && b == 0) cout<<"Indeterminant Form";
-// else cout<<ans;
+#include <iostream>
+using namespace std;
+int main(){
+int a;
+cout<<"Enter Base: ";
+cin>>a;
+int b;
+cout<<"Enter Power: ";
+cin>>b;
+int ans = 1;
+for(int i=1;i<=b;i++){
+    ans *=a;
+    if(a == 1) break;
+}
+if( a == 0 && b == 0) cout<<"Indeterminant Form";
+else cout<<ans;
 
-// }
+}
 
 
 
