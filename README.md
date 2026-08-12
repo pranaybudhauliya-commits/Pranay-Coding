@@ -6,5 +6,6 @@ This repository contains my C++ practice programs.
 - Basics
 - If-Else
 - Loops
+- Pattern Printing 
 
 Author: Pranay
