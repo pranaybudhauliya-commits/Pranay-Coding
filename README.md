@@ -3,7 +3,6 @@
 This repository contains my C++ practice programs.
 
 ## Topics
-<<<<<<< HEAD
 - Basics 
 - Dpp
 - Functions 
