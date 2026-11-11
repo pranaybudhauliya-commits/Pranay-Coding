@@ -3,12 +3,13 @@
 This repository contains my C++ practice programs.
 
 ## Topics
-- Basics
+- Basics 
 - Dpp
-- Functions
+- Functions 
 - If-Else
 - Loops
 - Pattern Printing 
-- Pointers
-- Practice
+- Pointers 
+- Practice 
+
 Author: Pranay
